@@ -6,6 +6,6 @@ Some description!
 
 This is below subheader
 
-### Local Developement
+### Feature branch
 
-1. Open index.html in your browser
+1 Added the index.html
